@@ -10,3 +10,5 @@ You can also join these channels on Gitter:
 
 - [SingaporeJS](https://gitter.im/SingaporeJS/discussions)
 - [SingaporeCSS](https://gitter.im/SingaporeCSS/discussions)
+
+See our [wiki](https://github.com/wdi-sg/discussions/wiki) for more information.
